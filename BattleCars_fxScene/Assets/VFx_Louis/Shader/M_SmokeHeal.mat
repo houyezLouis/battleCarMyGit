@@ -37,7 +37,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AlphaAdaptation: 1.11
-    - _AlphaTreshHold: 0.085
+    - _AlphaTreshHold: 0.146
     - _ColorInValue: 0.17
     - _ColorMediumValue: 0.021
     - _EmissiveValue: 5
