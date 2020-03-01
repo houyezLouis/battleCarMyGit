@@ -36,14 +36,14 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _AlphaAdaptation: 1.11
-    - _AlphaTreshHold: 0.146
-    - _ColorInValue: 0.17
-    - _ColorMediumValue: 0.021
+    - _AlphaAdaptation: 1.1
+    - _AlphaTreshHold: 0.04
+    - _ColorInValue: 0.12
+    - _ColorMediumValue: 0.017
     - _EmissiveValue: 5
     - __dirty: 0
     m_Colors:
     - _ColorIn: {r: 0.9669811, g: 1, b: 0.9884332, a: 0}
-    - _ColorMedium: {r: 0.514151, g: 1, b: 0.76760143, a: 0}
-    - _ColorOutline: {r: 0.012578618, g: 0.16037738, b: 0, a: 0}
+    - _ColorMedium: {r: 0.6348463, g: 1, b: 0, a: 0}
+    - _ColorOutline: {r: 0, g: 0.2735849, b: 0.08263237, a: 0}
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
